@@ -185,30 +185,41 @@ Ao abrir o aplicativo, você terá as seguintes opções:
 
  ## Tutorial de Execução do IDScan
 
- ### Abrir o IDScan
- - Primeiro, o usuário deverá acessar o App.java que está dentro do diretório java. Após isso, o usuário terá duas opções para abrir o IDScan: executar o comando "mvn exec:java" no terminal ou selecionar a linha 10 "public class App" e clicar em F5 para que o programa possa ser executado.
- - Agora, o usuário deverá esperar alguns de alguns segundos a 3 minutos para que o programa seja carregado pelo ollama e a aplicação seja iniciada.
+ ## 1. Abrir o IDScan
 
- ### Tela de Upload
- - Na tela de upload, o usuário terá a opção de inserir o arquivo de seu documento RG legível em formato de jpeg, png ou jpg (não é aceito pdf) no IDscan ou até mesmo arrastá-lo na tela.
+1. O primeiro passo é acessar o arquivo **App.java**, localizado dentro do diretório **java**.
+2. Após isso, o usuário tem duas opções para abrir o IDScan:
+   - Executar o comando `mvn exec:java` no terminal.
+   - Selecionar a linha `public class App` (linha 10) e pressionar **F5** para iniciar a execução do programa.
+3. O usuário deverá aguardar entre alguns segundos e até 3 minutos para que o programa seja carregado pelo **Ollama** e a aplicação seja iniciada.
+
+
+ ## 2. Tela de Upload
+ - Na tela de upload, o usuário pode inserir o arquivo do seu documento de **RG** (legível), que deve estar nos formatos **jpeg**, **png** ou **jpg**. *Documentos em formato **pdf** não são aceitos*.
+ - O arquivo também pode ser arrastado diretamente para a tela de upload.
+
  <img alt="backlog" src="docs/Tela de Upload.png">
- - Após isso, ele deve agurdar alguns minutos para que o tesseract processe as informaçoes contidas no RG, que tratam-se de todos os dados pessoais do usuário presentes nele. Enquanto isso, irá aparecer a tela de carregamento no IDscan para indicar que os dados estão sendo carregados
- - Durante esse período de carregamento, é possível observar no terminal que os dados estão sendo processador pela máquina virtual.
+
+ - Após o upload, o usuário deve aguardar enquanto o **Tesseract** processa as informações do RG (dados pessoais do usuário). Durante esse processo, será exibida uma tela de carregamento no **IDScan**.
+- O progresso também pode ser acompanhado no terminal, onde é possível ver as informações sendo processadas pela máquina virtual.
+
  <img alt="backlog" src="docs/Tela de processamento.png">
 
- ### Tela de Formulário do RG
-  - Após o carregamento do programa, irá aparecer uma tela de formulário do documento que o usuário inseriu, na qual contem as lacunas com os dados que o tesseract processou. 
-  - No entanto, é comum que ele não identifique todos os dados e muitas lacunas estejam vazias ou com informações incorretas. Por conta disso, o usuário terá a opção de preencher manualmente essas lacunas com seus dados corretos.
-  - Após isso, o usuário terá a opçao de clicar em "limpar" para que todas as lacunas sejam esvaziadas, ou também poderá clicar em "salvar" para que os dados de seu documento seja registrado no programa.
+ ## 3. Tela de Formulário do RG
+  - Após o processamento, será exibida uma tela com um formulário contendo os dados extraídos do RG. Contudo, é possível que nem todos os dados sejam identificados corretamente, deixando algumas lacunas vazias ou com informações incorretas.
+- O usuário pode preencher manualmente as lacunas com as informações corretas.
+- O usuário também poderá:
+  - **Limpar** todas as lacunas clicando no botão **Limpar**.
+  - **Salvar** os dados preenchidos, clicando no botão **Salvar**, para registrar as informações no programa.
  <img alt="backlog" src="docs/Tela de Formulário do RG.png">
 
- ### Tela de Consulta de Dados
-  - Além de inserir a foto do documento e salvar os dados no programa, o usuário também tem a opção de ser encaminhado para a tela de Consulta de Dados. Ao acessá-lo, ele poderá digitar na(s) lacuna(s) seus dados que já foram registrados no IDscan, para que ele possa encontrar as informações que ele deseja.
-  - Após digitar os dados, ele deverá clicar no botão "Buscar" para que seja encaminhamento para uma outra tela.
- <img alt="backlog" src="/docs/Tela de Consulta de Dados.png">
+ ## 4. Tela de Consulta de Dados
+  - O usuário pode acessar a tela de **Consulta de Dados**. Nela, ele poderá digitar as informações que foram registradas no **IDScan** para buscar os dados desejados.
+  - Após inserir as informações, o usuário deve clicar no botão **Buscar** para ser direcionado a outra tela.
+  <img alt="backlog" src="/docs/Tela de Consulta de Dados.png">
 
- ### Tela de Resultado da pesquisa
+ ## 5. Tela de Resultado da pesquisa
 
- - Após o usuário digitar seus dados nas lacunas, ele poderá consultá-los na tela dos Resultados de Pesquisa. Por exemplo, se ele digitar o nome "Guilherme" essa tela irá retornar todas as colunas que possuam esse nome. 
- -Ao clicar em uma dessas colunas, ele terá acesso ao nome e aos outros dados do documento que se refere ao "Guilherme". 
- - Além disso, o usuário poderá tambem editar as lacunas que contém as informações referentes ao documento representado na coluna.
+- Após realizar a consulta, os resultados serão exibidos na tela de **Resultados de Pesquisa**. Por exemplo, se o usuário digitar o nome "Guilherme", a tela retornará todas as entradas que contêm esse nome.
+- Ao clicar em uma das entradas, o usuário poderá visualizar o nome e os dados completos do documento correspondente.
+- O usuário também poderá **editar manualmente** as lacunas que contêm informações incorretas sobre o documento, caso necessário.
