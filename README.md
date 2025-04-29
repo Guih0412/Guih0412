@@ -52,7 +52,7 @@
 
 <br>
 
-![Snake animation](https://github.com/Guih0412/Guih0412/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
