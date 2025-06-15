@@ -1,15 +1,17 @@
-## ­Olá pessoal, bem vindos ao meu GitHub!
+## ­Sejam bem vindos ao meu GitHub!
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/4841904d-0665-413c-9b69-283a63693dd4" style="width:60%"
-</p>
+## 👨‍💻 Sobre Mim
 
+👋 Me chamo Guilherme Henrique, tenho 19 anos, sou ex-aluno do Colégio Embraer Juarez Wanderley e atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos.
 
-#### 👨‍🎓 Eu me chamo Guilherme Henrique, tenho 19 anos, sou ex aluno do Colégio Embraer Juarez Wanderley e atualmente estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos.
+💻 Tenho grande interesse em programação e busco sempre aprender, participar de projetos desafiadores e aplicar meus conhecimentos na prática.
 
-#### 👨🏻‍💻 Tenho interesse na área de programação e estou sempre em busca de novos aprendizados, projetos desafiadores e oportunidades de colocar meus conhecimentos em prática.
+🧠 Participei de projetos API (Aprendizado por Projetos Integradores), desenvolvendo soluções em equipe com metodologias ágeis. Atualmente desenvolvo o repositório [InsightFlow](https://github.com/Titus-System/InsightFlow), plataforma web criada para visualizar dados do comércio exterior brasileiro.
 
-#### 🛠️ Durante esse período, participei de projetos API (Aprendizado por Projetos Integradores), que trata-se de trabalho em equipe no qual desenvolvemos softwares funcionais com foco no atendimento aos requisitos do cliente, através de metodologias ágeis. Atualmente, possuo um repositório desenvolvido junto com a minha equipe [Titus System](https://github.com/Titus-System/InsightFlow), no qual estamos desenvolvendo uma plataforma web que visa fornecer informaçoes sobre os dados relacionados ao comércio exterior no Brasil, atendendo aos requisitos do cliente.
+🎯 Procuro uma oportunidade de estágio na área de TI, onde possa crescer profissionalmente e contribuir com minhas habilidades.
+
+🎵 Fora do ambiente acadêmico, gosto de ouvir música (principalmente Linkin Park e rock nacional), jogar Haxball, fotografar paisagens, jogar futebol e praticar academia — atividades que fortalecem minha criatividade, foco e trabalho em equipe.
+
 
 
 
