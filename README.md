@@ -1,4 +1,8 @@
-## ­Sejam bem vindos ao meu GitHub!
+<h2 align="center">Sejam bem vindos ao meu GitHub!😄</h2>
+
+<p align="center">
+  <img src="Avatar.png" alt="Meu avatar como programador" width="600"/>
+</p>
 
 ## 👨‍💻 Sobre Mim
 
