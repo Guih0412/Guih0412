@@ -20,7 +20,7 @@
 
 
 
-## Ferramentas e Tecnologias
+## 💻 Ferramentas e Tecnologias
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" />
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
 </p>
 
-## Entre em Contato
+## 📱 Entre em Contato
 
 <div>
   <a href="https://www.instagram.com/guih_0412/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -43,12 +43,12 @@
   <a href="mailto:guilhermecassula5@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Acesse meu portfólio
+## 🔗 Acesse meu portfólio
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](https://portfolio-jq0g.onrender.com)
 
 
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <a href="https://github.com/Guih0412" target="_blank">
