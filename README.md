@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-👋 Me chamo Guilherme Henrique, tenho 19 anos, sou ex-aluno do Colégio Embraer Juarez Wanderley e atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos.
+👋 Me chamo Guilherme Henrique, tenho 19 anos, sou ex-aluno do Colégio Embraer Juarez Wanderley e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos.
 
 💻 Tenho grande interesse em programação e busco sempre aprender, participar de projetos desafiadores e aplicar meus conhecimentos na prática.
 
@@ -14,7 +14,7 @@
 
 🎯 Procuro uma oportunidade de estágio na área de TI, onde possa crescer profissionalmente e contribuir com minhas habilidades.
 
-🎵 Fora do ambiente acadêmico, gosto de ouvir música (principalmente Linkin Park e rock nacional), jogar Haxball, fotografar paisagens, jogar futebol e praticar academia — atividades que fortalecem minha criatividade, foco e trabalho em equipe.
+🎵 Fora do ambiente acadêmico, gosto de ouvir música (principalmente Linkin Park, Detonautas e rock nacional), jogar Haxball, fotografar paisagens, jogar futebol e praticar academia — atividades que fortalecem minha criatividade, foco e trabalho em equipe.
 
 
 
